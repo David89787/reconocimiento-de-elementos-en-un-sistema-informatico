@@ -1,6 +1,6 @@
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
-**Autor:** David Buzón  
+**Autor:** David Buzón  "compañeros"
 **Asignatura:** Programación / Lenguajes de Marcas  
 
 ---
